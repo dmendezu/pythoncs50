@@ -1,0 +1,1 @@
+print(input('Insert text to show: ').lower());
